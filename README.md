@@ -42,4 +42,4 @@ X-O Project/
 
 ## 🔗 Live Demo
 
-- Live Demo ().
+- Live Demo (https://abdosmarei.github.io/X-O-Game/).
