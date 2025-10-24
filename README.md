@@ -9,7 +9,7 @@ A responsive, animated Tic Tac Toe game built with vanilla HTML, CSS, and JavaSc
 - Integrate animation and alert libraries for enhanced user experience.
 - Demonstrate modular code and maintainable logic structure.
 
-## Features
+## 🧩 Features
 
 - ✅ Turn-based gameplay with automatic switching.
 - 🧠 Win and draw detection logic.
